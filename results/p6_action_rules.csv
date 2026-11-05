@@ -1,0 +1,8 @@
+Grade,Risk,Rate_Spread_bps,Limit_Multiple,Monitoring,Restructuring
+A,Very Low,0,3x income,Annual,No
+B,Low,25,2.5x,Annual,No
+C,Medium-Low,50,2x,Semi-annual,Flag
+D,Medium,100,1.5x,Quarterly,Consider
+E,Medium-High,200,1x,Monthly,Recommend
+F,High,400,0.5x,Weekly,Urgent
+G,Very High,Decline,0x,N/A,Write-off

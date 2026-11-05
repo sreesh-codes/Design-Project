@@ -1,0 +1,37 @@
+# Data files (large)
+*.zip
+data/CSV_DI_77/
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (keep CSVs and MD files)
+# Uncommenting would exclude all results
+# results/*.csv
+# results/*.png
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.pth

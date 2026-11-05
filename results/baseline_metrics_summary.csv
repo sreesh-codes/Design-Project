@@ -1,0 +1,3 @@
+model,oof_auc
+LightGBM,0.8191841143848894
+CatBoost,0.7826926441181683
